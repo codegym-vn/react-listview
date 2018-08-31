@@ -1,5 +1,5 @@
 # ListView ReactNative Training
-
+Mã nguồn ListView ReactNative Training được sử dụng để thực hành tại [CodeGym](https://codegym.vn)
 # Mục tiêu bài tập
 - Biết sử dụng FlatList để tạo ListView
 - Biết cách phân trang API để lấy dữ liệu theo từng trang
